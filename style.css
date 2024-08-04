@@ -1,0 +1,36 @@
+body{
+    background-color: #fccb06;
+}
+header{
+    font-size: x-large;
+    text-align: center;
+    padding: 1px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #222e50;
+    color: aliceblue;
+}
+h2{
+    color: #222e50;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+}
+table{
+    color: #222e50;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+table{
+    border-collapse:collapse;
+}
+tr td{
+    padding: 12px;
+}
+footer{
+    background-color: #222e50;
+    color: azure;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1px;
+    text-align: center;
+}
